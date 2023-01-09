@@ -8,10 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   // Data object
   data = {
-    value: 'Test',
+    value: 'Value',
   };
-
-  onLogoClicked() {
-    alert('Logo clicked!');
-  }
 }
